@@ -1,0 +1,2 @@
+# Face-Recognition-Based-Attendance-System-With-Automatic-E-mail-Responsive-System
+The classroom attendance system based on face recognition technology uses the camera to monitor the scene information. It triggers the shooting of the student face photo event, reads the student information when the student is signed in with pre recorded student face database, which prevents non- school personnel from entering the classroom and substitute classes.
